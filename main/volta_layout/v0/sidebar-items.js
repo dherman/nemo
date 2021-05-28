@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["VoltaHome",""],["VoltaInstall",""]]});

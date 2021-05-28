@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ActivityKind",""]],"struct":[["Session","Represents the user’s state during an execution of a Volta tool. The session encapsulates a number of aspects of the environment in which the tool was invoked, including:"]]});

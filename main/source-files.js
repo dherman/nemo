@@ -1,0 +1,13 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex["archive"] = {"name":"","files":["lib.rs","tarball.rs","zip.rs"]};
+sourcesIndex["fs_utils"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["progress_read"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["test_support"] = {"name":"","files":["lib.rs","matchers.rs","paths.rs","process.rs"]};
+sourcesIndex["validate_npm_package_name"] = {"name":"","files":["lib.rs"]};
+sourcesIndex["volta"] = {"name":"","dirs":[{"name":"command","dirs":[{"name":"list","files":["human.rs","mod.rs","plain.rs","toolchain.rs"]}],"files":["completions.rs","fetch.rs","install.rs","mod.rs","pin.rs","run.rs","setup.rs","uninstall.rs","use.rs","which.rs"]}],"files":["cli.rs","common.rs","main.rs"]};
+sourcesIndex["volta_core"] = {"name":"","dirs":[{"name":"error","files":["kind.rs","mod.rs","reporter.rs"]},{"name":"hook","files":["mod.rs","serial.rs","tool.rs"]},{"name":"layout","files":["mod.rs","unix.rs"]},{"name":"platform","files":["image.rs","mod.rs","system.rs"]},{"name":"project","files":["mod.rs","serial.rs"]},{"name":"run","files":["binary.rs","executor.rs","mod.rs","node.rs","npm.rs","npx.rs","parser.rs","yarn.rs"]},{"name":"tool","dirs":[{"name":"node","files":["fetch.rs","metadata.rs","mod.rs","resolve.rs"]},{"name":"npm","files":["fetch.rs","mod.rs","resolve.rs"]},{"name":"package","files":["configure.rs","install.rs","manager.rs","metadata.rs","mod.rs","uninstall.rs"]},{"name":"yarn","files":["fetch.rs","metadata.rs","mod.rs","resolve.rs"]}],"files":["mod.rs","registry.rs","serial.rs"]},{"name":"toolchain","files":["mod.rs","serial.rs"]},{"name":"version","files":["mod.rs","serial.rs"]}],"files":["command.rs","event.rs","fs.rs","inventory.rs","lib.rs","log.rs","monitor.rs","session.rs","shim.rs","signal.rs","style.rs","sync.rs"]};
+sourcesIndex["volta_layout"] = {"name":"","files":["lib.rs","macros.rs","v0.rs","v1.rs","v2.rs","v3.rs"]};
+sourcesIndex["volta_layout_macro"] = {"name":"","files":["ast.rs","ir.rs","lib.rs"]};
+sourcesIndex["volta_migrate"] = {"name":"","files":["volta-migrate.rs"]};
+sourcesIndex["volta_shim"] = {"name":"","files":["common.rs","volta-shim.rs"]};
+createSourceSidebar();

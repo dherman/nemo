@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["default_install_dir","Determine the binary install directory from the currently running executable"],["env_paths",""],["volta_home",""],["volta_install",""]],"mod":[["unix",""]],"struct":[["VOLTA_HOME",""],["VOLTA_INSTALL",""]]});

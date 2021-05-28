@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ProgressRead","A reader that reports incremental progress while reading."]]});

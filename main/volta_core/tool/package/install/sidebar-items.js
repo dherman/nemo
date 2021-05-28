@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["run_global_install","Use `npm install --global` to install the package"]]});

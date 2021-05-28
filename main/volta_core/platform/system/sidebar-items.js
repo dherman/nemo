@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["System","A lightweight namespace type representing the system environment, i.e. the environment with Volta removed."]]});

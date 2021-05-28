@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["command","Build an `Executor` for npm"],["current_project_name","Determine the name of the current project, if possible"],["execution_context","Determine the execution context (PATH and failure error message) for npm"]]});

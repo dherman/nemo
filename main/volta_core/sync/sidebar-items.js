@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["LOCK_FILE",""]],"struct":[["LOCK_STATE",""],["LockState","The current state of locks for this process."],["VoltaLock","An RAII implementation of a process lock on the Volta directory. A given Volta process can have multiple active locks, but only one process can have any locks at a time."]]});

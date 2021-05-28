@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["parse_manifest","Read the manifest for the package being installed"],["validate_bins","Validate that we aren’t attempting to install a bin that is already installed by another package."],["write_config_and_shims","Generate configuration files and shims for the package and each of its bins"]]});

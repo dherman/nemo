@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Entry",""],["Ir","The intermediate representation (IR) of a struct type defined by the `layout!` macro, which contains the flattened directory entries, organized into three categories:"]]});

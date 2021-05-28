@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["find_closest_root","Starts at `base_dir` and walks up the directory tree until a package.json file is found"],["is_dependency",""],["is_node_modules",""],["is_node_root",""],["is_project_root",""]],"mod":[["serial",""]],"struct":[["LazyProject","A lazily loaded Project"],["PartialPlatform",""],["Project","A Node project workspace in the filesystem"]]});
